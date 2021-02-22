@@ -14,7 +14,7 @@ h1{
 	height:500px;
 }
 div{
-	background-color:white;
+	background-color:black;
 	border-style:solid;
 	border-width:2px;
 	border-color:black;
@@ -29,5 +29,5 @@ div{
 	display:inline;
 	margin:0px 50px 0px 50px;
 	height:25px;
-	padding:5px;
+	padding:20px;
 }
