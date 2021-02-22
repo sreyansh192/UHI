@@ -1,2 +1,0 @@
-# UHI
-group project
